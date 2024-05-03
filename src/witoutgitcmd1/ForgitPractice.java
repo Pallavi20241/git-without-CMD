@@ -6,6 +6,10 @@ public class ForgitPractice {
 	
 		System.out.println("hello all of you");
 
+		
+		//therw we use git stash that line
+		
+		System.out.println("code for stash new branch");
 	}
 
 }
